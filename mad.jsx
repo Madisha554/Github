@@ -5,4 +5,6 @@ const names = "Madisha"
  }
  else{
   console.log(`Hi, my name is ${names}`);
+  console.log("This is updated github repository");
+  
  }
